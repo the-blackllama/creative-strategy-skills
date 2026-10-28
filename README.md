@@ -53,7 +53,7 @@ License: https://creativecommons.org/licenses/by/4.0/
 
 “Generating Brand Brief Challenge” by Adavion McDonald.
 Licensed under CC BY 4.0.
-Source: [link to the original skill]
+Source: https://github.com/the-blackllama/creative-strategy-skills.git
 License: https://creativecommons.org/licenses/by/4.0/
 Changes: [describe changes, or state “Unmodified”]
 
