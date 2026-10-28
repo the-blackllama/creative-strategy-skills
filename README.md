@@ -48,3 +48,11 @@ You may share and adapt this material, including commercially, provided
 you give appropriate credit, link to the license, and indicate changes.
 
 License: https://creativecommons.org/licenses/by/4.0/
+
+## Credit Example
+
+“Generating Brand Brief Challenge” by Adavion McDonald.
+Licensed under CC BY 4.0.
+Source: [link to the original skill]
+License: https://creativecommons.org/licenses/by/4.0/
+Changes: [describe changes, or state “Unmodified”]
