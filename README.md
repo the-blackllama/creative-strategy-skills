@@ -40,4 +40,11 @@ Suggestions, bug reports, and improvements are welcome.
 
 ## License
 
-See the LICENSE file for reuse terms.
+Unless otherwise noted, the skill instructions and documentation in this
+repository are copyright © 2026 Adavion McDonald and licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You may share and adapt this material, including commercially, provided
+you give appropriate credit, link to the license, and indicate changes.
+
+License: https://creativecommons.org/licenses/by/4.0/
