@@ -5,7 +5,7 @@ brand identity, and portfolio-building workflows.
 
 Created by Adavion McDonald.
 
-## Available skills
+## Available Skills
 
 ### Generating Brand Brief Challenge
 
@@ -21,13 +21,13 @@ Includes:
 
 [View the skill](skills/generating-brand-brief-challenge/SKILL.md)
 
-## Example request
+## Example Request
 
 “Create a foundational brand identity challenge for a niche
 manufacturing company. Use a full identity scope and prioritize
 physical brand applications.”
 
-## Using these skills
+## Using these Skills
 
 Each skill lives in its own folder inside `skills/`.
 
@@ -56,3 +56,14 @@ Licensed under CC BY 4.0.
 Source: [link to the original skill]
 License: https://creativecommons.org/licenses/by/4.0/
 Changes: [describe changes, or state “Unmodified”]
+
+## Generated Outputs
+
+I do not require attribution merely for using this skill to generate
+a brief or create a design project.
+
+To the extent I hold any rights in generated outputs, I permit their
+use, modification, and commercial use without attribution.
+
+Redistributing the skill text itself remains subject to CC BY 4.0.
+This statement does not grant rights belonging to third parties.
