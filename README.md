@@ -9,7 +9,7 @@ Created by Adavion McDonald.
 
 ### Generating Brand Brief Challenge
 
-Creates detailed fictional brand identity briefs for self-initiated
+Creates detailed brand identity concept briefs for self-initiated
 portfolio projects and design practice.
 
 Includes:
