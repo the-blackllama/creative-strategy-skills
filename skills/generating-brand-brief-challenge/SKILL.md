@@ -170,6 +170,8 @@ A good mix of mockups should demonstrate scale, environment, and behavior.
    
 Ensure at least one constraint is **Technical** (e.g., specific print limitations, hardware integration, or accessibility requirements) and one is **Systemic** (e.g, 'This brand must exist in 10 different languages' or 'The logo must work on a piece of indutrail equipment 50 feet tall').
 
+Rule: If Foundational is chosen, limit to one to two light constraints. If Intermediate is chosen, limit to two to three constraints. If Advanced is chosen, limit to four total constraints.
+
 ---
 
 ## ✅ Success Criteria
